@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"View Package File",
+				"View Package File"
+			],
+			[
+				"View Pa",
+				"View Package File"
+			],
+			[
+				"",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Break",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"Neo Reload",
+				"NeoVintageous: Reload RC File"
+			],
+			[
+				"Neo",
+				"NeoVintageous: Open RC File"
+			],
+			[
+				"neovintageous ",
+				"NeoVintageous: Open RC File"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"List Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List Packages",
+				"Package Control: List Packages"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"List Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			":q",
+			"quit",
+			"echo env",
+			"import os",
+			"import sys",
+			"help(sys)",
+			"clear",
+			"set",
+			"view.run_command('pip')",
+			"view.run_command('jbrun')",
+			"view.runCommand('JBRunCommand')",
+			"view.run_command('JBRun')",
+			"view.run_command('duplicate')",
+			"view.runCommand('duplicate')",
+			"clear()",
+			"clear",
+			"help(sublime_plugin)",
+			"help",
+			"?",
+			"view.run_command('example')",
+			"view.run_command('exampletext')",
+			"help()",
+			"help",
+			"print(\"Hello\")",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Home/Src/GitHub/Desktop/blevinsoft.github.io"
+	],
+	"file_history":
+	[
+		"/C/Home/Src/GitHub/Desktop/blevinsoft.github.io/README.md",
+		"/C/Home/Src/GitHub/Desktop/blevinsoft.github.io/index.html",
+		"/C/Home/Src/bas/FB/lk.bas",
+		"/C/Home/Tmp/Titan.Quest.Anniversary.Edition.Ragnarok-PLAZA/plaza.nfo",
+		"/C/Home/Tmp/VIEWHLP/Viewhlp.hhk",
+		"/C/Home/Tmp/Titan.Quest.Anniversary.Edition.Ragnarok-PLAZA/Readme.txt",
+		"/D/PLAZA/steam_emu.ini",
+		"/C/Program Files/WindowsApps/21090PaddyXu.QuickLook_3.6.10.0_neutral__egxr34yet59cg/Package/README.md",
+		"/C/Home/Documents/Text/MediaMonkeyKey.txt",
+		"/C/Home/Tmp/Files4PC.com_MediaMonkey Gold 5.0.0.2264/Keygen-AMPED.rar",
+		"/C/Home/Tmp/cmd.log",
+		"/C/Home/Bin/XWF20/fonts/fonts.conf",
+		"/C/Home/Src/Python/Twilio/starter-python-master/app.py",
+		"/C/Home/Bin/dm/license.txt",
+		"/C/Home/.condarc",
+		"/C/Home/Desktop/gVim 8.2.lnk",
+		"/C/Home/Tmp/SAPIEN PowerShell Studio 2018 Keygen/Readme.txt",
+		"/C/Users/User/Documents/old-command-proc.txt",
+		"/C/Users/User/Documents/OrgPython.txt",
+		"/C/Users/User/Documents/My Stuff/hosts",
+		"/C/Users/User/AppData/Roaming/Microsoft/Windows/SendTo/Documents.mydocs",
+		"/C/Home/.npmrc",
+		"/C/Home/.yarnrc",
+		"/C/Home/.minttyrc",
+		"/C/Home/ericdefault.e5s",
+		"/C/Home/readme_rus.txt",
+		"/C/Home/wxLuaIDE.ini",
+		"/C/Home/.gvimrc",
+		"/C/Home/Tmp/readme.txt",
+		"/C/Home/gdbtk.ini",
+		"/C/Home/Bin/tcc/examples/hello_win.c",
+		"/C/Home/Bin/tcc/examples/debug.log",
+		"/C/Home/Bin/Help/AspNetCore.Docs/aspnetcore/grpc/index.md",
+		"/C/Home/Help/indy.hlp",
+		"/C/Home/Help/openhelp.toc",
+		"/C/Home/Help/indy.toc",
+		"/C/Home/Help/iter_swap.html",
+		"/C/Home/Help/inplace_merge.html",
+		"/C/Home/Help/plus.html",
+		"/C/Home/AppData/Roaming/GHISLER/WINCMD.INI",
+		"/C/Home/Src/mxe/README.md",
+		"/C/Users/User/AppData/Roaming/GHISLER/3dsmax.ini",
+		"/C/Users/User/AppData/Roaming/GHISLER/tccloud.ini",
+		"/C/Users/User/AppData/Roaming/ACJavaDecomp/settings.ini",
+		"/C/Users/User/AppData/Roaming/GHISLER/WINCMD.INI",
+		"/C/xampp/xampp-control.log",
+		"/C/Home/Bin/oh.ini",
+		"/C/Users/User/.ipython/profile_default/startup/README",
+		"/C/Home/Bin/Lua/5.1/SciTE/c.api",
+		"/C/Home/Bin/Lua/5.1/clibs/zlib-license.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Free Basic.sublime-syntax",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/C++/C.sublime-syntax",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Oniguruma Regular Expressions Version 5.9.1.txt",
+		"/C/Home/Bin/Lua/5.1/clibs/LuaInterface-COPYRIGHT.txt",
+		"/C/Home/Bin/fbc/inc/dos/bios.bi",
+		"/C/RadASM/fb.ini",
+		"/C/RadASM/fb/fbCall.api",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/C#/Build.sublime-syntax",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python 3/Python3.tmLanguage",
+		"/C/RadASM/AddIns/fb.ct",
+		"/C/RadASM/RadASM.ini",
+		"/C/RadASM/fb/Projects/MultiModule/MultiModule.res",
+		"/C/Home/.gitconfig",
+		"/C/Users/User/AppData/Local/Temp/_tc0/Readme.txt",
+		"/C/Users/User/AppData/Local/Temp/_tc0/ReadmeDeu.txt",
+		"/C/Home/Documents/ECO/samples/pascal/services/ReadMe.htm",
+		"/C/Users/User/.bash_profile",
+		"/C/Users/desktop.ini",
+		"/C/Home/_viminfo",
+		"/C/msys64/dir",
+		"/C/Home/Bin/Hiew/HIEW8.INI",
+		"/C/Home/Downloads/desktop.ini",
+		"/C/Home/Tmp/Cloud/ReadMe.txt",
+		"/C/Home/Bin/Sublime3/sublime.py",
+		"/C/Users/User/AppData/Local/Temp/_tc/F7=new connection.txt",
+		"/C/Home/Downloads/[FTUApps.com] - MAGIX Samplitude Music Studio 2021 v26.0.0.12 (x64) + Crack/Readme.txt",
+		"/C/Home/.bashrc",
+		"/C/msys64/msys2_shell.cmd",
+		"/C/msys64/mingw32.ini",
+		"/C/msys64/mingw64.ini",
+		"/C/msys64/msys2.ini",
+		"/C/Home/Documents/old-command-proc.txt",
+		"/C/Home/Bin/Cmder/vendor/conemu-maximus5/ConEmu/Cmd_Autorun.cmd",
+		"/C/Home/Bin/Cmder/bin/Readme.md",
+		"/C/Home/Bin/Cmder/vendor/conemu-maximus5/ConEmu/SetConTitle.cmd",
+		"/C/Home/Src/Python/Panda3D/GrassApp/grassapp.p3d",
+		"/C/Home/.bash_aliases",
+		"/C/Home/.vimrc",
+		"/C/Home/_vimrc",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python 3/Gloom.tmTheme",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python 3/Comments(Python3).tmPreferences",
+		"/C/MinGW/msys/1.0/bin/msysinfo",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python 3/Python3.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/MinGW-Win32-Make.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Panda3D.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/KiteSublime.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Main.Sublime-Menu",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Python 3/README.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Lua.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Panda3D_Build.py",
+		"/C/Users/User/.ionic/helper.log",
+		"/C/Home/Src/Python/Panda3D/GrassApp/grassapp.py",
+		"/C/Home/Bin/Panda3D/panda3d.dist-info/entry_points.txt",
+		"/C/Home/Bin/Panda3D/Pmw/README",
+		"/C/Home/.ideavimrc",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/link.exe.config",
+		"/C/Program Files (x86)/LucasArts/SWKotOR/swkotor.ini",
+		"/C/Home/.viminfo",
+		"/C/Home/Bin/HHW/Projects/HHW/toc.hhc",
+		"/C/Users/User/AppData/Local/Temp/7zO4CCC4DBD/MobaXterm.2020-10-26_01.01.ini",
+		"/C/Home/Documents/indictments.txt",
+		"/C/Home/Bin/WPy64-3901/settings/winpython.ini",
+		"/C/Home/Bin/Symbols/pingme.txt",
+		"/C/Users/User/AppData/Local/Temp/7zOC4BD6F01/Readme.txt",
+		"/C/Home/Bin/Lua/5.1/luarocks.bat",
+		"/C/Home/Tmp/Crackred.com_GameMaker Studio Ultimate 2.2.5.481/Read me.txt",
+		"/C/Home/Bin/Lua/5.1/lExecutor.wlua",
+		"/C/Users/User/AppData/Local/Temp/fb 525377.ini",
+		"/C/Home/Bin/Lua/5.1/lua/metalua.luac",
+		"/C/Home/Bin/Lua/5.1/docs/alien/alien.md",
+		"/C/Home/Bin/Lua/5.1/include/lua.hpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Home/Bin/Lua/5.1/examples/wxlua/gridtable.wx.wlua",
+		"/C/Home/Bin/Lua/5.1/examples/env.lua",
+		"/C/Home/Bin/Lua/5.1/luarocks.lua"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.8,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 20.0
+	},
+	"input":
+	{
+		"height": 303.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Command-line":
+	{
+		"height": 278.0
+	},
+	"output.CppBuilder":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 355.0
+	},
+	"pinned_build_system": "Packages/User/Panda3D.sublime-build",
+	"project": "blevinsoft.github.io.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
